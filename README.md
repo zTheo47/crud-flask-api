@@ -112,4 +112,4 @@ Este projeto foi criado para praticar:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Stanley Alves
+Desenvolvido por Theo Alves
